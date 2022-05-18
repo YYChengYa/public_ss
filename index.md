@@ -1,2 +1,2 @@
 ### welcome
-public ss
+ 公开订阅信息
