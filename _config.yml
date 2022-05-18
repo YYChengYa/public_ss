@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: YYChengYa
   links:
     - https://github.com/YYChengYa
 google_site_verification: xxxxx
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: YYChengYa
+  url: https://github.com/YYChengYa
+  email: --
